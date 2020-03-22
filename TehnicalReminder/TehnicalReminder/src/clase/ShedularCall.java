@@ -11,10 +11,7 @@ import java.util.Calendar;
 import java.util.Timer;
 import javax.swing.JOptionPane;
 import javax.swing.JTextArea;
-/**
- *
- * @author HP
- */
+
 public class ShedularCall {
     
     
